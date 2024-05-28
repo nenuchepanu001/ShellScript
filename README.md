@@ -1,5 +1,7 @@
 # ShellScript
 ***Tutorial_Practise***
+-- user defined variables should be in smallletters
+--
 
 Exit Commands guide:
 https://tldp.org/LDP/abs/html/exitcodes.html
