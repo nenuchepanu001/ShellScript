@@ -15,3 +15,5 @@ https://chmod-calculator.com/
 crotab guru:
 https://crontab.guru/
 
+shellcheck: # for debugging
+https://www.shellcheck.net/
