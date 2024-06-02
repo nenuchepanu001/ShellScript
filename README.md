@@ -12,5 +12,6 @@ https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html
 chmod calculator for permissions :
 https://chmod-calculator.com/
 
-
+crotab guru:
+https://crontab.guru/
 
