@@ -1,10 +1,10 @@
 # ShellScript
 
 # -----------------------------------------------
-# Author       : Krishna Sai					
+# Author       : KS				
 # Created Date : 03/06/2024						 
 # LastModified : 03/06/2024						
-# LastAuthor   : Krishna Sai					
+# LastAuthor   : KS					
 #												
 # Description									
 # prints this is my first script to terminal	
