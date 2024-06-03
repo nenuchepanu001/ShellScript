@@ -1,4 +1,18 @@
 # ShellScript
+
+# -----------------------------------------------
+# Author       : Krishna Sai					
+# Created Date : 03/06/2024						 
+# LastModified : 03/06/2024						
+# LastAuthor   : Krishna Sai					
+#												
+# Description									
+# prints this is my first script to terminal	
+#												
+# Usage											
+# our_first_script								
+# -----------------------------------------------
+
 ***Tutorial_Practise***
 -- user defined variables should be in smallletters
 --
